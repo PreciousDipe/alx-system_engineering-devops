@@ -1,1 +1,2 @@
--e#!/bin/bash\nls -l
+#!/bin/bash
+ls -l
